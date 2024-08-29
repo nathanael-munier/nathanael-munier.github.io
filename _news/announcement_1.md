@@ -1,8 +1,8 @@
 ---
-layout: post
-date: 2015-10-22 15:59:00-0400
+layout: Entering in the 3rd PhD year!
+date: 2024-07-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+It's time for the final straight!

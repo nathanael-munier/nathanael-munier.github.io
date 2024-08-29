@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Here is my personal page. I'm actually doing a PhD at Toulouse at CBI in the [Mambo team](https://cbi-toulouse.fr/eng/equipe-mambo).
+Here you are at my personal page. I'm actually doing a PhD at Toulouse at CBI in the [Mambo team](https://cbi-toulouse.fr/eng/equipe-mambo).

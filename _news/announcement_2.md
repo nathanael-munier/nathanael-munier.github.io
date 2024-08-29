@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-It's time for the final straight!
+Edimbourgh here I come! Let's go to the QIPI24: UQ for Inverse Problems and Imaging seminar!

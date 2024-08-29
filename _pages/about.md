@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: nathanael.munier at ens-rennes.fr
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office 2031</p>
-    <p>165 Rue Marianne Grunberg-Manago, CBI Toulouse</p>
+    <p>165 Rue Marianne Grunberg-Manago, CBI</p>
     <p>Toulouse</p>
 
 news: true # includes a list of news items

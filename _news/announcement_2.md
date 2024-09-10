@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<img src='assets/img/edinburgh-castle.jpg' width=200 height=auto> Edimbourgh here I come! Let's go to the QIPI24: UQ for Inverse Problems and Imaging seminar!
+<img src='assets/img/edinburgh-castle.jpg' width=200 height=auto> Edinburgh here I come! Let's go to the QIPI24: UQ for Inverse Problems and Imaging seminar!

@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: IMT, Toulouse, France
+    - title: PhD on blind inverse problems in microscopy
+      institution: IMT/CBI, Toulouse, France
       year: 2022-2025
       description:
         - Blind inverse problem in microscopy
@@ -22,18 +22,39 @@
       description:
         - algorithmic, symbolic computation and numerical optimization
     - title: Agrégation diploma
-      institution: Rennes university, Rennes, France
+      institution: ENS Rennes, Rennes, France
       year: 2021
       description:
         - external maths agrégation, position 13, option C (formal computation)
+    - title: Master in pure mathematics
+      institution: ENS Rennes, Rennes, France
+      year: 2020
+    - title: Bachelor's degree in mathematics
+      institution: ENS Rennes, Rennes, France
+      year: 2019
+    - title: Preparatory classes MPSI and MP*
+      institution: Lycee Kleber, Strasbourg, France
+      year: 2017-2018
+    - title: Science baccalaureate with highest honour
+      institution: High school Blaise Pascal, Colmar, France
+      year: 2017-2018
 
-- title: Experience
+- title: Experiences
   type: time_table
   contents:
     - title: Maths teaching assistant
-      institution: INSA Toulouse
+      institution: INSA Toulouse, France
       year: 2022-2025
       description:
         - introduction to maths, 1st year
         - probability, 2nd year
         - PDE & Fourier transform, 3rd year
+    - title: Master 2 research internship on inverse problems
+      institution: INSA Toulouse, France
+      year: 2022
+    - title: Remote Master 1 internship on sandpile groups of supersingular isogeny graphs 
+      institution: supervised by the Hebrew university of Jerusalem
+      year: 2020
+    - title: Internship on algebraic geometry and Bézout's theorem
+      institution: IRMA, Strasbourg, France
+      year: 2019

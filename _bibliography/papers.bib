@@ -50,7 +50,22 @@
 with Adversarial Manifolds},
   author={Munier, Nathana{\"e}l and Soubies, Emmanuel and Weiss, Pierre},
   year={2024},
-  PDF = {https://hal.science/hal-04744486v1/document}
+  PDF = {https://hal.science/hal-04744486v1/document},
+  abstract = {Given a forward mapping $$ \Phi : \mathbb{R}^N \rightarrow \mathbb{R}^M $$ , the region $$ \{x \in \mathrm{R}^N\}, \, || \Phi(x) -
+y ||^2 \le \epsilon \} $$, where $$ y \in \mathrm{R}^M $$ is a given vector and $$ \epsilon \le 0 $$ is a perturbation am-
+plitude, represents the set of all possible inputs $$ x$$  that could have produced
+the measurement $$y$$ within an acceptable error margin. This set reflects
+the inherent uncertainty or indeterminacy in recovering the true input $$x$$
+solely from the noisy observation $$y$$, which is a key challenge in inverse
+problems. In this work, we develop a numerical algorithm called Jackpot
+(Jacobian Kernel Projection Optimization) which approximates this set
+with a low-dimensional adversarial manifold. The proposed algorithm
+leverages automatic differentation, allowing it to handle complex, high
+dimensional mappings such as those found when dealing with dynamical
+systems or neural networks. We demonstrate the effectiveness of our al-
+gorithm on various challenging large-scale, non-linear problems including
+parameter identification in dynamical systems and blind image deblurring.
+The algorithm is integrated within the Python package deepinv.}
 }
 
 
@@ -59,6 +74,14 @@ with Adversarial Manifolds},
   author={Munier, Nathana{\"e}l and Soubies, Emmanuel and Weiss, Pierre},
   year={2024},
   MONTH = Oct,
-  PDF = {https://hal.science/hal-04753218/document}
+  PDF = {https://hal.science/hal-04753218/document},
+  abstract = {Inverse problem solvers are mappings S : Y → X , where Y is the space
+of measurements and X the space of signals we wish to recover. We propose a
+simple algorithm to visualize the main instability of a solver implemented within
+an automatic differentiation framework. We justify it through simple considerations
+and illustrate its behavior on a deconvolution problem solved with a neural network
+based reconstruction method. The proposed algorithm can be used to provide addi-
+tional insights on the properties of inverse problem solvers, and can be viewed as a
+simple uncertainty quantification technique.}
 }
 

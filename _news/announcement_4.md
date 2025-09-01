@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<img src='assets/img/iabm_logo.png' width=200 height=auto> Poster session at the French colloquium of IA in biomedical imaging.
+<img src='assets/img/iabm_logo.png' width=200 height=auto> Poster session at the French colloquium of IA in biomedical imaging [IABM](https://iabm2025.sciencesconf.org/).
 
 See you in Nice on March 17th and 18th!

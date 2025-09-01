@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD on blind inverse problems in microscopy
+    - title: PhD on uncertainty quantification for inverse problems
       institution: IMT/CBI, Toulouse, France
       year: 2022-2025
       description:
-        - Blind inverse problem in microscopy
+        - Uncertainty quantification for inverse problems
     - title: Research master
       institution: Limoges university, Limoges, France
       year: 2022

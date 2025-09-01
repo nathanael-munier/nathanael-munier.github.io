@@ -33,7 +33,7 @@ the distribution disagrees with the Cohen–Lenstra heuristic in this context.
 Our proof is via Galois representations attached to modular curves. As a
 corollary, we give an upper bound on the probability that the Jacobian is
 cyclic, which we conjecture to be sharp.},
- author = {Nathanaël MUNIER and Ari SHNIDMAN},
+ author = {Nathana{\"e}l MUNIER and Ari SHNIDMAN},
  journal = {Journal de Théorie des Nombres de Bordeaux},
  number = {3},
  pages = {pp. 751--774},
@@ -47,17 +47,23 @@ cyclic, which we conjecture to be sharp.},
 
 
 @inproceedings{cazorla2023sketchpose,
-  title={Sketchpose: Learning to Segment Cells with Partial Annotations},
-  author={Cazorla, Cl{\'e}ment and Munier, Nathana{\"e}l and Morin, Renaud and Weiss, Pierre},
-  year={2023},
-  PDF = {https://hal.science/hal-04330824v1/file/sketchpose_hal.pdf},
-  abstract = {A few neural networks in biological image segmentation rely on a prediction of a distance map. This principle is 
-  at the basis of popular software such as Stardist, Cellpose or Omnipose. It yields unprecedented accuracy but hinges on fully 
-  annotated datasets. This can be a serious limitation for generating training sets and performing transfer learning. In this 
-  paper, we show how to handle partial annotation, while still relying on the distance map. We design a variant of the Omnipose 
-  architecture embedded in a user-friendly Napari plugin. We evaluate the performance of the proposed approach in the contexts 
-  of frugal learning, transfer learning and regular learning on a large database. Our experiments show that the proposed approach 
-  can lead to substantial savings in time and resources without sacrificing segmentation quality.},
+  title = "Sketchpose: Learning to Segment Cells with Partial Annotations",
+  author = "Cazorla, Clément and Munier, Nathana{\"e}l and Morin, Renaud and Weiss, Pierre",
+  journal = "Machine Learning for Biomedical Imaging",
+  volume = "3",
+  issue = "August 2025 issue",
+  year = "2025",
+  pages = "367--381",
+  issn = "2766-905X",
+  doi = "https://doi.org/10.59275/j.melba.2025-f7b3",
+  PDF = {https://www.melba-journal.org/pdf/2025:016.pdf},
+  abstract = {The most popular networks used for cell segmentation (e.g. Cellpose, Stardist, HoverNet,...) rely on a prediction of a
+distance map. It yields unprecedented accuracy but hinges on fully annotated datasets. This is a serious limitation to
+generate training sets and perform transfer learning. In this paper, we propose a method that still relies on the distance
+map and handles partially annotated objects. We evaluate the performance of the proposed approach in the contexts of
+frugal learning, transfer learning and regular learning on regular databases. Our experiments show that it can lead to
+substantial savings in time and resources without sacrificing segmentation quality. The proposed algorithm is embedded
+in a user-friendly Napari plugin.},
   preview = {Sketchpose.png}
 }
 
@@ -82,8 +88,7 @@ examples.},
 
 
 @inproceedings{munier2024jackpot,
-  title={Jackpot: Approximating Uncertainty Domains
-with Adversarial Manifolds},
+  title={Jackpot: Approximating Uncertainty Domains with Adversarial Manifolds},
   author={Munier, Nathana{\"e}l and Soubies, Emmanuel and Weiss, Pierre},
   year={2024},
   PDF = {https://hal.science/hal-04744486v1/document},
@@ -122,4 +127,22 @@ tional insights on the properties of inverse problem solvers, and can be viewed 
 simple uncertainty quantification technique.},
   preview = {IPMS.png}
 }
+
+@inproceedings{munier2024exploring,
+  TITLE = {Jackpot 2.0 : variété d'incertitude pour les problèmes inverses},
+  AUTHOR = {Munier, Nathana{\"e}l and Soubies, Emmanuel and Weiss, Pierre},
+  URL = {https://hal.science/hal-04138308},
+  BOOKTITLE = {{XXIX{\`e}me Colloque Francophone de Traitement du Signal et des Images (GRETSI 2023)}},
+  YEAR = {2025},
+  MONTH = Aug,
+  PDF = {https://hal.science/hal-05144957v1/document},
+  HAL_ID = {hal-05144957},
+  abstract = {Dans le contexte des problèmes inverses, nous avions introduit Jackpot 1.0, une méthode d'approximation de la région
+d'incertitude par une variété de dimension inférieure. Nous présentons une nouvelle méthode similaire qui détermine les points
+extrémaux des lignes de niveau de l'écart au modèle. Cette nouvelle méthode a deux avantages : elle repose uniquement sur un
+problème d'optimisation non contraint et elle renvoie des points qui maximisent le rapport entre écart de paramètre et écart de
+mesure. Cette méthode a été testée sur deux applications numériques de biologie des systèmes.},
+  preview = {jackpot2.png}
+}
+
 

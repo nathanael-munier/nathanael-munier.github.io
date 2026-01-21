@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Nathanaël
 middle_name:
 last_name: Munier
-email: nathanael.munier@ens-rennes.fr
+email: nathanael.munier@uni-graz.at
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

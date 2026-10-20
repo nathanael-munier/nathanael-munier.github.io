@@ -6,11 +6,17 @@
     - name: Date of Birth
       value: 25th November 1998
     - name: Languages
-      value: French, English
+      value: French (native), English (fluent), German (intermediate)
 
 - title: Education
   type: time_table
   contents:
+    - title: Postdoctoral researcher on image reconstruction in MRI
+      institution: University of Graz, Austria
+      year: 2025-2028
+      description:
+        - Optimal control problems
+        - Information theory for inverse problems
     - title: PhD on uncertainty quantification for inverse problems
       institution: IMT/CBI, Toulouse, France
       year: 2022-2025
